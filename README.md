@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ## 1. Запуск сервера (Backend)
 ```bash
 cd backend/app
-uvicorn main:app --reload --host 127.0.0.1 --port 8000
+uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ## 2. Запуск клиента (Frontend)
