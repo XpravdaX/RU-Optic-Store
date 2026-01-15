@@ -76,3 +76,8 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 cd frontend
 python main.py
 ```
+## 📱 Соцсети
+[[YouTube](https://www.youtube.com/@pravda_sempai)
+[[Rutube](https://rutube.ru/channel/41737058/)
+[[VK](https://vk.com/pravdasempai)
+[[Telegram](https://t.me/PRAVDASEMPAI)
